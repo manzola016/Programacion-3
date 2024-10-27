@@ -1,0 +1,6 @@
+Producto #1:
+ID: AZU123
+Nombre: Azucar blanca
+Cantidad: 120
+Precio: 73.68
+
