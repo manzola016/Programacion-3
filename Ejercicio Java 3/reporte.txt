@@ -1,0 +1,3 @@
+ID: 1, Nombre: pepe, Apellido: fiestas, Teléfono: 12345
+  Empresas Relacionadas:
+    - Empresa: tu mama, Direccion: arriba de tu papa, Rol: jefe de las fiestas
